@@ -1,0 +1,41 @@
+body{
+    background-color: hsl(212, 45%, 89%);
+    
+}
+.estilo-imagem {
+   margin-left: 0%;
+   margin-bottom: 80%;
+   border-radius: 0.675em;
+}
+
+main {
+    background-color: #fff;
+    width: 218px;
+    height: 400px;
+    border-radius: 1.2em;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 1.1em;
+    margin-top: 25%;
+    margin-left: 35%;
+    padding: 1em;
+    display: grid;
+}
+
+#título {
+    display: flex;
+    font-family: outfit;
+    color: hsl(218, 44%, 22%);
+    font-size:1.2em;
+    text-align: center;
+    margin-top: -125%;
+}
+
+#texto {
+    color: hsl(220, 15%, 55%);
+    font-family: outfit;
+    margin-top: -70%;
+    text-align: justify;
+    align-items: center;
+}
